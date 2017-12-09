@@ -612,6 +612,8 @@ ModelImporter:
     101208: zu56
     101210: zu57
     101212: zu58
+    101214: Text014
+    101216: Text015
     400000: //RootNode
     400002: bgg05
     400004: bgg07
@@ -1219,6 +1221,8 @@ ModelImporter:
     401208: zu56
     401210: zu57
     401212: zu58
+    401214: Text014
+    401216: Text015
     2300000: bgg05
     2300002: bgg07
     2300004: bgg11
@@ -1674,6 +1678,8 @@ ModelImporter:
     2300904: yhy12
     2300906: yhy13
     2300908: yhy14
+    2300910: Text014
+    2300912: Text015
     3300000: bgg05
     3300002: bgg07
     3300004: bgg11
@@ -2129,6 +2135,8 @@ ModelImporter:
     3300904: yhy12
     3300906: yhy13
     3300908: yhy14
+    3300910: Text014
+    3300912: Text015
     4300000: Rectangle01
     4300002: Box01
     4300004: Line01
@@ -2584,6 +2592,8 @@ ModelImporter:
     4300904: plant 181
     4300906: stick61
     4300908: flower pot58
+    4300910: Text014
+    4300912: Text015
     7400000: Take 001
     9500000: //RootNode
   materials:

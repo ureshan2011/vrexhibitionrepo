@@ -6,7 +6,6 @@ D:\Nalanda\Web Application\webapp\Temp\bin\Debug\UnityEngine.Analytics.dll
 D:\Nalanda\Web Application\webapp\Temp\bin\Debug\UnityEngine.dll
 D:\Nalanda\Web Application\webapp\Temp\bin\Debug\UnityEngine.HoloLens.dll
 D:\Nalanda\Web Application\webapp\Temp\bin\Debug\UnityEngine.Networking.dll
-D:\Nalanda\Web Application\webapp\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
 D:\Nalanda\Web Application\webapp\Temp\bin\Debug\UnityEngine.UI.dll
 D:\Nalanda\Web Application\webapp\Temp\bin\Debug\UnityEngine.VR.dll
 D:\Nalanda\Web Application\webapp\Temp\bin\Debug\Mono.Cecil.dll
@@ -22,9 +21,14 @@ D:\Nalanda\Web Application\webapp\Temp\bin\Debug\UnityEngine.xml
 D:\Nalanda\Web Application\webapp\Temp\bin\Debug\UnityEditor.xml
 D:\Nalanda\Web Application\webapp\Temp\bin\Debug\UnityEngine.UI.xml
 D:\Nalanda\Web Application\webapp\Temp\bin\Debug\UnityEngine.Networking.xml
-D:\Nalanda\Web Application\webapp\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
 D:\Nalanda\Web Application\webapp\Temp\bin\Debug\UnityEngine.Analytics.xml
 D:\Nalanda\Web Application\webapp\Temp\bin\Debug\UnityEngine.HoloLens.xml
 D:\Nalanda\Web Application\webapp\Temp\bin\Debug\UnityEngine.VR.xml
 D:\Nalanda\Web Application\webapp\obj\Debug\Assembly-CSharp.dll
 D:\Nalanda\Web Application\webapp\obj\Debug\Assembly-CSharp.pdb
+D:\Nalanda\Web Application\webapp\Temp\bin\Debug\Facebook.Unity.dll
+D:\Nalanda\Web Application\webapp\Temp\bin\Debug\Facebook.Unity.Settings.dll
+D:\Nalanda\Web Application\webapp\Temp\bin\Debug\nunit.framework.dll
+D:\Nalanda\Web Application\webapp\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Nalanda\Web Application\webapp\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Nalanda\Web Application\webapp\Temp\bin\Debug\nunit.framework.xml

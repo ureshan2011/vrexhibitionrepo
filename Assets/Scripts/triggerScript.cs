@@ -8,25 +8,41 @@ using System.Security.Cryptography.X509Certificates;
 
 public class triggerScript : MonoBehaviour {
 
+	bool x = true;
+
 
 	void OnTriggerEnter (Collider other)
 	{
-		
+		Debug.Log ("enter");
+		if (x == true) {
+			Debug.Log (other.gameObject.name);
 
+
+			//string link = "skype:echo123?call\">Call the Skype Echo / Sound Test Service";
+			//Application.OpenURL(link);
+
+			x = false;
+		}
 
 		//email_send ();
 
 
 
+		//Application.OpenURL("skype:echo123?call\">Call the Skype Echo / Sound Test Service");
+		Application.ExternalEval("window.open(\"https://www.youtube.com/watch?v=DnHR1tJ7bkA\")");
+
 	}
+
 
 	// Use this for initialization
 	void Start () {
-		
+		Debug.Log("start");
 	}
 	
 	// Update is called once per frame
 	void Update () {
+
+
 	}
 
 	void email_send(){
@@ -34,7 +50,7 @@ public class triggerScript : MonoBehaviour {
 		mail.From = new MailAddress("noreply@vexpo.futureminds.lk");
 		mail.To.Add("futuremindsnalandavr@gmail.com");
 		mail.Subject = "Your Future Minds Expo Virtual Stall has a Visitor";
-		mail.Body = "A user with yasas@gmail.com has visited to your virtual exhibition stall. Visitor's Contact Number is 0768666603";
+		mail.Body = "A user with yasassri@gmail.com has visited to your virtual exhibition stall. Visitor's Contact Number is 0768666603";
 
 		SmtpClient smtp = new SmtpClient("smtp.gmail.com");
 		smtp.Port = 587;
